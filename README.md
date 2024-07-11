@@ -1,9 +1,18 @@
 <div align="center">
-## Hi there 👋
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babyms999)](https://solved.ac/babyms999)
+## 🥇MINSUNG GU🥇
 
-### 🛠 Tech Stack
+🎓 경북대 기계공학부 졸업  
+💻 삼성 청년 SW 아카데미(SSAFY) 12기  
+**🎫 구미 python 비전공 3반 반장**  
+~~🎮 Maplestory 중독자~~
+
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guminsung&show_icons=true&theme=radical)  
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babyms999)](https://solved.ac/babyms999)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+### 🛠 SKILL
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/>
@@ -11,18 +20,3 @@
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-
-<!--
-**Guminsung/Guminsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
