@@ -10,7 +10,7 @@
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guminsung&show_icons=true&theme=radical)  
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babyms999)](https://solved.ac/babyms999)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)]([https://hits.seeyoufarm.com](https://github.com/Guminsung/Guminsung/blob/main/README.md))
 
 ### 🛠 SKILL
 <div>
