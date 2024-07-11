@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi there 👋
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babyms999)](https://solved.ac/babyms999)
