@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carbonsix)](https://solved.ac/carbonsix)
+
 <!--
 **Guminsung/Guminsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
